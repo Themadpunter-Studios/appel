@@ -1,0 +1,38 @@
+.topbar {
+    float:right;
+    display:inline-block;
+    display: flex;
+    vertical-align:center;
+}
+img {
+    padding-bottom: 10px;
+}
+body {
+    padding-top: 2%;
+    padding-bottom: 5%;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+header {
+    border-bottom: 1px solid #999;
+    margin-bottom: 2rem;
+}
+.btn {
+    margin-right: 2px;
+    margin-left: 2px;
+    margin-bottom: 10px;
+}
+body {
+    background: #ffffff;
+    background-attachment: fixed;
+}
+.main {
+    background: #ffffff;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+.level {
+    width: 50%;
+}
